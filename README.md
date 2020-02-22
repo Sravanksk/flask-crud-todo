@@ -1,7 +1,6 @@
 # Todo Application
 Built with  
 🄿🅈🅃🄷🄾🄽 🄵🄻🄰🅂🄺
-* See this live on Heroku [here](https://pypi.org)
 
 # Installation
 
