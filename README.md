@@ -2,6 +2,8 @@
 Built with  
 🄿🅈🅃🄷🄾🄽 🄵🄻🄰🅂🄺
 
+* Check this app on Heroku [here](https://todo-app-flaskk.herokuapp.com/)
+
 # Installation
 
 Follow the steps for installation
